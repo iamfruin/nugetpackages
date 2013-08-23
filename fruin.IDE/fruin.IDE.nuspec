@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>fruin.IDE</id>
+    <title>fruin.IDE</title>
+    <version>0.0.1</version>
+    <authors>Craig Fruin</authors>
+    <owners>Craig Fruin</owners>
+    <summary>fruin.IDE - a collection of IDEs w/ plugins to quickly get your development environment up and going</summary>
+    <description>fruin.IDE includes a number of IDEs w/ plugins such as Visual Studio 2012 and ReSharper</description>
+    <projectUrl>https://github.com/fruin/nugetpackages</projectUrl>
+    <tags>fruin utilities tools</tags>
+    <dependencies>
+      <dependency id='VisualStudio2012Ultimate' />
+      <dependency id='resharper' />
+    </dependencies>
+  </metadata>
+</package>

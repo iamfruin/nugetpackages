@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>fruin.DevEnv</id>
+    <title>fruin.Developer.Environment</title>
+    <version>0.0.1</version>
+    <authors>Craig Fruin</authors>
+    <owners>Craig Fruin</owners>
+    <summary>fruin.Developer.Environment - a collection of utilities to quickly get your development environment up and going</summary>
+    <description>fruin.Developer.Environment includes a number of utilities</description>
+    <projectUrl>https://github.com/fruin/nugetpackages</projectUrl>
+    <tags>fruin utilities tools</tags>
+    <dependencies>
+      <dependency id='fruin.IDE' />
+      <dependency id='fruin.Utilities' />
+      <dependency id='fruin.CloudStorage' />
+    </dependencies>
+  </metadata>
+</package>

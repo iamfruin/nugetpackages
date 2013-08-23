@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>fruin.CloudStorage</id>
+    <title>fruin.Cloud.Storage</title>
+    <version>0.0.1</version>
+    <authors>Craig Fruin</authors>
+    <owners>Craig Fruin</owners>
+    <summary>fruin.Cloud.Storage - a collection of utilities used for cloud storage</summary>
+    <description>fruin.Cloud.Storage includes a number of utilities such as dropbox, googledrive and skydrive</description>
+    <projectUrl>https://github.com/fruin/nugetpackages</projectUrl>
+    <tags>fruin utilities tools</tags>
+    <dependencies>
+      <dependency id='dropbox' />
+      <dependency id='googledrive' />
+      <dependency id='SkyDrive' />
+    </dependencies>
+  </metadata>
+</package>

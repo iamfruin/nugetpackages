@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>fruin.Utilities</id>
+    <title>fruin.Utilities</title>
+    <version>0.0.1</version>
+    <authors>Craig Fruin</authors>
+    <owners>Craig Fruin</owners>
+    <summary>fruin.Utilities - a collection of utilities to quickly get your development environment up and going</summary>
+    <description>fruin.Utilities includes a number of utilities such as putty, winscp, filezilla, fiddler, paint.net, git, tortoisesvn, sublimetext2, notepad++, googlechrome, sysinternals and launchy</description>
+    <projectUrl>https://github.com/fruin/nugetpackages</projectUrl>
+    <tags>fruin utilities tools</tags>
+    <dependencies>
+      <dependency id='putty' />
+      <dependency id='winscp' />
+      <dependency id='fiddler' />
+      <dependency id='paint.net' />
+      <dependency id='git.install' />
+      <dependency id='tortoisesvn' />
+      <dependency id='sublimetext2' />
+      <dependency id='notepadplusplus.install' />
+      <dependency id='GoogleChrome' />
+      <dependency id='sysinternals' />
+      <dependency id='launchy' />
+    </dependencies>
+  </metadata>
+</package>
